@@ -1,6 +1,6 @@
 import React,{useState} from 'react';
 import TextPhoneField from '../src/Components/phone-text/phone-text';
-import MoneyTextField from '../src/Components/money-text/phone-text';
+import MoneyTextField from './Components/money-text/money-text';
 import './App.css'
 
 function App() {
