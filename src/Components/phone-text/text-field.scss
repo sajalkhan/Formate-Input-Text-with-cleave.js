@@ -1,0 +1,17 @@
+.text-field {
+	
+	input {
+		width: 50%;
+		border-radius: 0px;
+		border: 1px solid #adadad;
+		outline-color: orange;
+		color: #6d6e71;
+		background-color: #f1f1f2;
+		padding: 6px 12px;
+		margin: 5px 10px;
+
+		::placeholder {
+			font-style: italic;
+		}
+	}
+}
