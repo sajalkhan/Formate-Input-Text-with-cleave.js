@@ -37,3 +37,15 @@ function App() {
 }
 
 export default App;
+
+// Necessary link:
+
+// https://blog.logrocket.com/formatting-form-inputs-with-cleave-js-and-react/
+
+// https://codepen.io/TimArsen/pen/KqdMdR
+
+// https://github.com/nosir/cleave.js/issues/412
+
+// https://codesandbox.io/s/cleavejs-demo-c3j27?file=/src/App.js
+
+// https://developer.aliyun.com/mirror/npm/package/react-phone-input-auto-format
